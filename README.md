@@ -7,5 +7,5 @@
 - 👯 I’m looking to collaborate on meaningful projects;
 - 🤔 I’m looking for help with learning more about software engineering;
 - 💬 Ask me about anything related to **Javascript**;
-- 📫 How to reach me: Through e-mail (gabrielsmelo.dev@gmail.com), [Linkedin](https://www.linkedin.com/in/gabrielsmelo/), [Instagram](https://instagram.com/gabrielsmelo), or anything else 😛;
+- 📫 How to reach me: Through [e-mail](gabrielsmelo.dev@gmail.com), [Linkedin](https://www.linkedin.com/in/gabrielsmelo/), [Instagram](https://instagram.com/gabrielsmelo), or anything else 😛;
 - ⚡ Fun fact: I love to cook 👨‍🍳 and I'm a bit geek (what a surprise 🙈);
