@@ -1,6 +1,6 @@
 ### Hey! I'm Gabriel Soares 👋
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gabrielsmelo)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gabrielsmelo&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on [MeetingPulse](https://meet.ps) as a **Javascript Fullstack Developer**;
 - 🌱 I’m currently learning more about team leadership and project management;
