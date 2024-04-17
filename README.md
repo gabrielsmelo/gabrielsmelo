@@ -1,5 +1,7 @@
 ### Hey! I'm Gabriel Soares 👋
 
+*Note: My Github stats are quite low currently, because most of my contributions happens in closed repos on other Git providers, such as Gitlab. (e.g. Personio)
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gabrielsmelo&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsmelo&theme=cobalt&hide=c%2B%2B,c)](https://github.com/anuraghazra/github-readme-stats)
 
